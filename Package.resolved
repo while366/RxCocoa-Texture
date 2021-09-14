@@ -1,0 +1,61 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "libwebp",
+        "repositoryURL": "https://github.com/SDWebImage/libwebp-Xcode",
+        "state": {
+          "branch": null,
+          "revision": "289862b9466243cdec407997d4cb8ba529359a99",
+          "version": "1.2.0"
+        }
+      },
+      {
+        "package": "PINCache",
+        "repositoryURL": "https://github.com/pinterest/PINCache.git",
+        "state": {
+          "branch": null,
+          "revision": "875c654984fb52b47ca65ae70d24852b0003ccd9",
+          "version": "3.0.3"
+        }
+      },
+      {
+        "package": "PINOperation",
+        "repositoryURL": "https://github.com/pinterest/PINOperation.git",
+        "state": {
+          "branch": null,
+          "revision": "44d8ca154a4e75a028a5548c31ff3a53b90cef15",
+          "version": "1.2.1"
+        }
+      },
+      {
+        "package": "PINRemoteImage",
+        "repositoryURL": "https://github.com/pinterest/PINRemoteImage.git",
+        "state": {
+          "branch": null,
+          "revision": "611d8ab1c6937bcdfd9d59a967716b0370a332be",
+          "version": "3.0.3"
+        }
+      },
+      {
+        "package": "RxSwift",
+        "repositoryURL": "https://github.com/ReactiveX/RxSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "c8742ed97fc2f0c015a5ea5eddefb064cd7532d2",
+          "version": "6.0.0"
+        }
+      },
+      {
+        "package": "Texture",
+        "repositoryURL": "https://github.com/while366/Texture.git",
+        "state": {
+          "branch": null,
+          "revision": "f2ac20c68821f0b2c4ee14215123d767012f24d0",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
