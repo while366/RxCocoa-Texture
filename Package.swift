@@ -17,7 +17,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/ReactiveX/RxSwift.git", .upToNextMajor(from: "6.0.0")),
-        .package(url: "https://github.com/while366/Texture.git", .revision("f2ac20c68821f0b2c4ee14215123d767012f24d0")),
+        .package(url: "https://github.com/while366/Texture.git", .branch("spm")),
     ],
     targets: [
         .target(

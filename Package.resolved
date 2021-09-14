@@ -32,9 +32,9 @@
         "package": "PINRemoteImage",
         "repositoryURL": "https://github.com/pinterest/PINRemoteImage.git",
         "state": {
-          "branch": null,
-          "revision": "611d8ab1c6937bcdfd9d59a967716b0370a332be",
-          "version": "3.0.3"
+          "branch": "master",
+          "revision": "0a3bf07f1437ec128cc787efb79b8f53b023f6be",
+          "version": null
         }
       },
       {
@@ -50,8 +50,8 @@
         "package": "Texture",
         "repositoryURL": "https://github.com/while366/Texture.git",
         "state": {
-          "branch": null,
-          "revision": "f2ac20c68821f0b2c4ee14215123d767012f24d0",
+          "branch": "spm",
+          "revision": "7782f0c1f9167ee7597b99f8146b6252050452da",
           "version": null
         }
       }
